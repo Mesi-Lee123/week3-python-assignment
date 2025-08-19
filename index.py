@@ -13,4 +13,6 @@ def calculate_discount(price,discount_percent):
         print ("price after discount is", int(price) - discount_price)
 
 
+
+
 calculate_discount(product_price,discount)
